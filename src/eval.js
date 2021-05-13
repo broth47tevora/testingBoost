@@ -1,2 +1,2 @@
-//let x=3;
-//eval(x);
+let x=3;
+eval(x);
